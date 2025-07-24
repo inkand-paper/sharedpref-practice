@@ -12,7 +12,8 @@ A simple Android application for note-taking, built using the MVVM (Model-View-V
 
 ## Screenshots
 
-![Notation App Main Screen](image1)
+<img width="414" height="739" alt="Screenshot 2025-07-24 231256" src="https://github.com/user-attachments/assets/b7a8c956-893c-43b4-92ad-05216d0a212d" />
+
 
 ## Architecture
 
